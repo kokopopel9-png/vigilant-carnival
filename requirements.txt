@@ -1,0 +1,7 @@
+python-telegram-bot==21.4
+python-dotenv==1.0.1
+
+# Optional AI provider SDKs (install only the one you use):
+# anthropic==0.32.0        # Claude
+# google-generativeai==0.8.0  # Gemini
+# openai==1.50.0           # OpenRouter
